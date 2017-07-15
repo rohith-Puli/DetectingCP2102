@@ -2,7 +2,8 @@
 
 ## Author
 ------------------
-http://android-er.blogspot.in/2014/02/search-usb-device-for-specified-vendor.html
+http://android-er.blogspot.in/2014/02/search-usb-device-for-specified-vendor.html.
+### 
 P. Sree Rohith made a few changes in the UI.
 ## System Requirements
 -------------------
